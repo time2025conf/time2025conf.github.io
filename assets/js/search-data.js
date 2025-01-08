@@ -409,8 +409,8 @@ ninja.data = [{
           window.location.href = "/sample-posts/2015/03/15/formatting-and-links.html";
         
       },
-    },{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+    },{id: "news-call-for-papers",
+          title: 'Call for papers',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
