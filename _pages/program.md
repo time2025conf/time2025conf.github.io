@@ -1,18 +1,20 @@
 ---
 layout: page
-title: Symposium Program
+title: Program
 permalink: /program/
 nav: true
 nav_order: 4
 ---
 
-# Keynotes
+# Symposium Program
+
+## Keynotes
 
 - Keynote speaker 1
 - Keynote speaker 2
 - Keynote speaker 3
 
-# Schedule
+## Schedule
 
 - 28 October
 - 29 October
