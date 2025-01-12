@@ -8,6 +8,6 @@ nav_order: 7
 
 ![](../assets/img/qm.jpg)
 
-# QMUL
+## QMUL
 
-# Accommodation
+## Accommodation
