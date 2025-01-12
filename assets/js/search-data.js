@@ -9,14 +9,49 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "dropdown-news",
-              title: "News",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "";
-              },
-            },{id: "news-call-for-papers",
+  },{id: "nav-call-for-papers",
+          title: "Call For Papers",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/c4p/";
+          },
+        },{id: "nav-proceedings",
+          title: "Proceedings",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/proceedings/";
+          },
+        },{id: "nav-symposium-program",
+          title: "Symposium Program",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/program/";
+          },
+        },{id: "nav-registration",
+          title: "Registration",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/registration/";
+          },
+        },{id: "nav-organization",
+          title: "Organization",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/organization/";
+          },
+        },{id: "nav-venue",
+          title: "Venue",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/venue/";
+          },
+        },{id: "news-call-for-papers",
           title: 'Call for papers',
           description: "",
           section: "News",},{id: "projects-project-1",
