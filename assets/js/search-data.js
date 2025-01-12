@@ -3,13 +3,20 @@ const ninja = document.querySelector('ninja-keys');
 
 // add the home and posts menu items
 ninja.data = [{
-    id: "nav-about",
-    title: "about",
+    id: "nav-introduction",
+    title: "Introduction",
     section: "Navigation",
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-call-for-papers",
+  },{id: "nav-introduction",
+          title: "Introduction",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/";
+          },
+        },{id: "nav-call-for-papers",
           title: "Call For Papers",
           description: "",
           section: "Navigation",
@@ -23,8 +30,8 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/proceedings/";
           },
-        },{id: "nav-symposium-program",
-          title: "Symposium Program",
+        },{id: "nav-program",
+          title: "Program",
           description: "",
           section: "Navigation",
           handler: () => {
