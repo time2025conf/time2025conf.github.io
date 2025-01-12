@@ -2,6 +2,8 @@
 layout: page
 title: Call For Papers
 permalink: /c4p/
+nav: true
+nav_order: 2
 ---
 
 # Topics
