@@ -6,8 +6,6 @@ nav: true
 nav_order: 5
 ---
 
-# Registration
-
 Registration is now open at https://um.azur-colloque.fr/inscription/en/47/inscription.
 
 At least one author of each accepted paper must register as a regular attendee (this option appears as Lecturers/researchers on Azur-Colloque) and attend the symposium to present their work.

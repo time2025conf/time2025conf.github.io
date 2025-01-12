@@ -6,8 +6,6 @@ nav: true
 nav_order: 6
 ---
 
-# Organization
-
 ## Programme Committee Chairs
 
 ## Program Committee

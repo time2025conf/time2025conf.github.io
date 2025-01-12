@@ -6,8 +6,6 @@ nav: true
 nav_order: 3
 ---
 
-# Proceedings
-
 Accepted papers will be presented at the symposium and included in the proceedings, which will be published by LIPIcs-Leibniz International Proceedings in Informatics. This is a series of high-quality peer-reviewed conference proceedings, and published according to the principle of OpenAccess.
 
 The proceedings volume of TIME 2024 is now officially published as volume 318 of LIPIcs and available at: www.dagstuhl.de/dagpub/978-3-95977-349-2

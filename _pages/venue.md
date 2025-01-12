@@ -6,7 +6,7 @@ nav: true
 nav_order: 7
 ---
 
-![](assets/img/qm.jpg)
+![](../assets/img/qm.jpg)
 
 # QMUL
 
