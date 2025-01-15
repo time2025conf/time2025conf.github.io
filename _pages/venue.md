@@ -8,8 +8,8 @@ nav_order: 7
 
 ## QMUL
 
-![](../assets/img/qb.jpg)
+<p style="text-align: center"><img src="../assets/img/qb.jpg" width="75%"></p>
 
 ## Accommodation
 
-![](../assets/img/qm.jpg)
+<p style="text-align: center"><img src="../assets/img/qm.jpg" width="75%"></p>
