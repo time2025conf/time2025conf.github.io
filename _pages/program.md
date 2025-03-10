@@ -19,9 +19,3 @@ Michael Wooldridge is a Professor of Computer Science at the University of Oxfor
 ### Schedule
 
 - TBA
-
-[comment]: <> (
-- 27 August
-- 28 August
-- 29 August
-)
