@@ -63,10 +63,10 @@ All questions about submissions should be emailed to the organizers.
 
 Be mindful of the following dates:
 
-- June 15, 2025: Symposium paper submission deadline
+- June 15, 2025: Paper submission deadline
 - June 13, 2025: Paper acceptance/rejection notification date
 - July 27: Camera-ready submission deadline
 - August 18, 2025: Registration deadline
-- August 27–29, 2025: Symposium Date
+- August 27–29, 2025: Symposium dates
 
 Note: all deadlines are AoE (Anywhere on Earth).
