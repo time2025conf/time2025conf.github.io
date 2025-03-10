@@ -6,14 +6,14 @@ nav: true
 nav_order: 4
 ---
 
-## Keynotes
+### Keynote Talks
 
 - Keynote speaker 1
 - Keynote speaker 2
 - Keynote speaker 3
 
-## Schedule
+### Schedule
 
-- 28 October
-- 29 October
-- 30 October
+- 27 August
+- 28 August
+- 29 August
