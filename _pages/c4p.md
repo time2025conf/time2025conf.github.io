@@ -43,11 +43,11 @@ In this symposium, in addition to theoretical and practical work in Artificial I
 
 Finally, the authors of the top-ranked papers will be invited to submit an extended version of their contribution to a journal special issue; more details will be provided in due time.
 
-[comment]: <> (
+
 ### Submission
 
-The submission link is available at cmt3.research.microsoft.com/TIME2025/.
-)
+The submission link: TBA
+
 
 ### Guidelines
 
