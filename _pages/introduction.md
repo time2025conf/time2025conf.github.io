@@ -5,9 +5,9 @@ permalink: /
 
 ---
 
-# 32st International Symposium on Temporal Representation and Reasoning
+## 32st International Symposium on Temporal Representation and Reasoning
 
-# 27-29 August 2025, London, UK
+### 27-29 August 2025, London, UK
 
 <p style="text-align: center"><img src="assets/img/banner.jpg"></p>
 
