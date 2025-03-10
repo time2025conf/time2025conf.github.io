@@ -41,7 +41,7 @@ In this symposium, in addition to theoretical and practical work in Artificial I
 - Events and time series explanations in healthcare
 - The list above is by no means exhaustive, as the aim is to foster the debate around all aspects of the suggested topics.
 
-Finally, the authors of the top-ranked papers will be invited to submit an extended version of their contribution to a special issue in the journal of ...; more details will be provided in due time.
+Finally, the authors of the top-ranked papers will be invited to submit an extended version of their contribution to a journal special issue; more details will be provided in due time.
 
 # Submission
 
