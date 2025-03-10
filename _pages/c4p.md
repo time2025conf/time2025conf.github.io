@@ -6,7 +6,7 @@ nav: true
 nav_order: 2
 ---
 
-# Topics
+### Topics
 
 In this symposium, in addition to theoretical and practical work in Artificial Intelligence, Databases, and Logic and Reasoning, we invite submissions focusing on the development, deployment, and evaluation of Machine Learning Systems that fall under the scope of the symposium. Such systems papers will be evaluated primarily on the quality of the empirical evaluation and reusability. Topics for TIME 2025 include (but are not limited to):
 
@@ -44,12 +44,12 @@ In this symposium, in addition to theoretical and practical work in Artificial I
 Finally, the authors of the top-ranked papers will be invited to submit an extended version of their contribution to a journal special issue; more details will be provided in due time.
 
 [comment]: <> (
-# Submission
+### Submission
 
 The submission link is available at cmt3.research.microsoft.com/TIME2025/.
 )
 
-## Guidelines
+### Guidelines
 
 TIME 2025 accepts submissions in PDF format, no longer than 12 pages excluding references and appendix. The appendix is limited to 5 pages, and the reviewers may or may not take it into account for their recommendation. Submissions must be formatted following the LIPIcs instructions and preferably redacted in LaTeX.
 
@@ -59,7 +59,7 @@ Submissions to TIME 2025 must be original; parallel submissions of the same mate
 
 All questions about submissions should be emailed to the organizers.
 
-## Important Dates
+### Important Dates
 
 Be mindful of the following dates:
 
