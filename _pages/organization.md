@@ -6,12 +6,12 @@ nav: true
 nav_order: 6
 ---
 
-## Programme Committee Chairs
+### Programme Committee Chairs
 
-- Przemysław Wałęga, QMUL, University of Oxford, UK
-- Thierry Vidal, Technological University of Tarbes, France
+- [Przemysław Wałęga]([https://sites.google.com/site/pawalega](https://www.seresearch.qmul.ac.uk/cfcs/people/pwalega/)), QMUL, University of Oxford, UK
+- [Thierry Vidal](https://www.irisa.fr/dream/site/Emembre_tvidal.html), Technological University of Tarbes, France
 
-## Program Committee
+### Program Committee
 
 ### Spatio-temporal Representation and Reasoning
 
@@ -19,13 +19,12 @@ nav_order: 6
 
 ### Planning and Temporal Databases
 
-## Local Organizing Committee
+### Local Organizing Committee
 
-- Fredrik Dahlqvist, QMUL, UK
-- Raymond Hu, QMUL, UK
-- Niki Omidvari, QMUL, UK
-- Marc Roth, QMUL, UK
-- Antonio di Stasio, City, University of London, UK
-- David Tena Cucala, RHUL, UK
-- Yongxin Yang, QMUL, UK
-- A random person, A random place, UK
+- Fredrik Dahlqvist, QMUL, University of London, UK
+- Raymond Hu, QMUL, University of London, UK
+- Niki Omidvari, QMUL, University of London, UK
+- Marc Roth, QMUL, University of London, UK
+- Antonio di Stasio, City, University of London, University of London, UK
+- David Tena Cucala, RHUL, University of London, UK
+- Yongxin Yang, QMUL, University of London, UK
