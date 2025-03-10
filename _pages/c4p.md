@@ -43,9 +43,11 @@ In this symposium, in addition to theoretical and practical work in Artificial I
 
 Finally, the authors of the top-ranked papers will be invited to submit an extended version of their contribution to a journal special issue; more details will be provided in due time.
 
+[comment]: <> (
 # Submission
 
 The submission link is available at cmt3.research.microsoft.com/TIME2025/.
+)
 
 ## Guidelines
 
@@ -61,10 +63,10 @@ All questions about submissions should be emailed to the organizers.
 
 Be mindful of the following dates:
 
-- June 21, 2025, July 5, 2025: Symposium paper submission deadline
-- August 2, 2025, August 14, 2025: Paper acceptance/rejection notification date
-- August 13, 2025, August 23, 2025, August 28, 2025: Camera-ready submission deadline
-- October 18, 2025: Registration deadline
-- October 28–30, 2025: Symposium Date
+- June 15, 2025: Symposium paper submission deadline
+- June 13, 2025: Paper acceptance/rejection notification date
+- July 27: Camera-ready submission deadline
+- August 18, 2025: Registration deadline
+- August 27–29, 2025: Symposium Date
 
 Note: all deadlines are AoE (Anywhere on Earth).
