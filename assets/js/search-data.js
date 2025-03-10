@@ -3,8 +3,8 @@ const ninja = document.querySelector('ninja-keys');
 
 // add the home and posts menu items
 ninja.data = [{
-    id: "nav-32st-international-symposium-on-temporal-representation-and-reasoning",
-    title: "32st International Symposium on Temporal Representation and Reasoning",
+    id: "nav-introduction",
+    title: "Introduction",
     section: "Navigation",
     handler: () => {
       window.location.href = "/";
