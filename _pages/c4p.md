@@ -35,14 +35,11 @@ TIME 2025 accepts submissions in PDF format, formatted following the [LIPIcs ins
 
 There are **three types** of submissions, and the authors are invited to specify under which one their paper lies:
 
-1) Original papers (12 pages, excluding references and appendix)
-Such papers describe original, non-published contribution. It includes theoretical (new algorithms, proofs, models) and applied (applications, system descriptions, evaluation) contributions.
+1) Original papers (12 pages, excluding references and appendix): such papers describe original, non-published contribution. It includes theoretical (new algorithms, proofs, models) and applied (applications, system descriptions, evaluation) contributions.
 
-2) Survey paper (12 pages, excluding references and appendix)
-Such papers are intended to propose a short review of a complete domain of research.
+2) Survey paper (12 pages, excluding references and appendix): such papers are intended to propose a short review of a complete domain of research.
 
-3) Extended abstract (4 pages, excluding references and appendix)
-Such abstracts are intended to foster debates during the symposium and include: work-in-progress, project kick-off or review, PhD summary, and summary of a paper accepted in a major conference or journal. They will be specifically mentioned in the proceedings as abstracts and not full papers.
+3) Extended abstract (4 pages, excluding references and appendix): such abstracts are intended to foster debates during the symposium and include: work-in-progress, project kick-off or review, PhD summary, and summary of a paper accepted in a major conference or journal. They will be specifically mentioned in the proceedings as abstracts and not full papers.
 
 The submission link: TBA
 
