@@ -14,7 +14,7 @@ nav_order: 4
 
 Michael Wooldridge is a Professor of Computer Science at the University of Oxford. His main research interests is in multi-agent systems, and in particular, in the computational theory aspects of rational action in systems composed of multiple self-interested agents. His work is characterised by the use of techniques from computational logic, game theory, and social choice theory.
 
-- [Michael Zakharyaschev](https://titan.dcs.bbk.ac.uk/~michael/), Birkbeck, University of London, UK
+- "Separation and interpolation problems related to linear temporal logic LTL" by [Michael Zakharyaschev](https://titan.dcs.bbk.ac.uk/~michael/), Birkbeck, University of London, UK
 
 <p style="text-align: center"><img src="../assets/img/MZ.jpg" width="30%"></p>
 
