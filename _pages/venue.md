@@ -8,7 +8,7 @@ nav_order: 7
 
 ## QMUL
 
-<p style="text-align: center"><img src="../assets/img/qb.jpg" width="75%"></p>
+<p style="text-align: center"><img src="../assets/img/qb.jpg" width="45%"></p>
 
 TIME 2025 will take place in the [Mile End campus](https://www.qmul.ac.uk/about/howtofindus/mileend/index.html) of Queen Mary University of London.
 
@@ -19,7 +19,7 @@ The closest tube stations are **Stepney Green** and **Mile End**. For travel pla
 
 ## Accommodation
 
-<p style="text-align: center"><img src="../assets/img/qm.jpg" width="55%"></p>
+<p style="text-align: center"><img src="../assets/img/qm.jpg" width="45%"></p>
 
 Accommodation on QMUL campus, where the conference will take place, are provided by
 - [Stay QM](https://www.qmaccommodation.co.uk/)
