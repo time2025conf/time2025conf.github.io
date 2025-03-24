@@ -6,7 +6,7 @@ nav: true
 nav_order: 7
 ---
 
-## QMUL
+## Queen Mary University of LondonQueen Mary University of London
 
 <p style="text-align: center"><img src="../assets/img/qb.jpg" width="45%"></p>
 
@@ -22,7 +22,7 @@ The easiest and generally best value way to pay for all public transport in Lond
 
 <p style="text-align: center"><img src="../assets/img/qm.jpg" width="45%"></p>
 
-Accommodation on QMUL campus, where the conference will take place, are provided by
+Accommodation on Queen Mary campus, where the conference will take place, are provided by
 - [Stay QM](https://www.qmaccommodation.co.uk/)
 
 Other accommodation options reachable on foot (or by public transport) include:
