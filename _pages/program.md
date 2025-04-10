@@ -20,14 +20,15 @@ Michael Wooldridge is a Professor of Computer Science at the University of Oxfor
 
 Michael Zakharyaschev is a Professor of Computer Science in the School of Computer Science and Information Systems at Birkbeck College, University of London. His current research interests include mathematical and computational aspects of knowledge representation and reasoning using modal, temporal, description, spatial, metric, intuitionistic, etc., logics as well as those logics per se.
 
-### Tutorials
+### Invited Tutorials
 
 - "An introduction to first-order linear temporal logic" by [Nicola Gigante](https://www.inf.unibz.it/~gigante/), Free University of Bozen-Bolzano, Italy
 
-<p style="text-align: center"><img src="../assets/img/NG.png" width="25%"></p>
-
 **Abstract:** Linear temporal logic (LTL), most commonly defined as a propositional modal logic, is the de-facto standard language for specifying temporal properties of systems in formal verification, artificial intelligence, and other fields. First-order linear temporal logic (FO-LTL) lifts LTL to the setting of first-order logic, obtaining a remarkably flexible and expressive formalism. First-order modal and temporal logics have a long history, but recent years have seen a rise of interest in (well-behaved fragments of) FO-LTL for the specification of complex infinite-state systems. This tutorial is a gentle introduction to the field of first-order temporal logics, starting from classic results and exploring recent directions.
 
+<p style="text-align: center"><img src="../assets/img/NG.png" width="25%"></p>
+
+Nicola is a Researcher at the Free University of Bozen-Bolzano, Italy. He works on temporal reasoning in the broadest sense, including satisfiability of temporal logics with tableau- and SAT-based techniques, reactive synthesis, and temporal planning. He is currently investigating the use of (fragments of) first-order temporal logics to the specification of infinite-state systems.
 
 ### Schedule
 
