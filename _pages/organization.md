@@ -14,7 +14,7 @@ nav_order: 6
 ### Programme Committee
 
 - Sundararaman	Akshay,	Indian Institute of Technology Bombay
-- Beatrice	Amico	University of Verona
+- Beatrice	Amico,	University of Verona
 - Alexander	Artikis,	NCSR Demokritos & University of Piraeus
 - Philippe	Balbiani,	IRIT, Toulouse
 - Massimo	Benerecetti, Università di Napoli "Federico II"
