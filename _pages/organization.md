@@ -19,7 +19,7 @@ nav_order: 6
 - Philippe	Balbiani,	IRIT, Toulouse
 - Massimo	Benerecetti, Università di Napoli "Federico II"
 - Béatrice	Bérard,	Sorbonne University, Paris
-- Florian	Bruse,	University of Kassel 
+- Florian	Bruse, TU Munich
 - Jaewook	Byun,	Sejong University, Seoul
 - Maria	Chiara Meo,	G. d'Annunzio University of Chieti-Pescara
 - Carlo	Combi,	University of Verona
