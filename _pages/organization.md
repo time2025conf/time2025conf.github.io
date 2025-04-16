@@ -3,7 +3,7 @@ layout: page
 title: Organization
 permalink: /organization/
 nav: true
-nav_order: 6
+nav_order: 4
 ---
 
 ### Programme Committee Chairs
