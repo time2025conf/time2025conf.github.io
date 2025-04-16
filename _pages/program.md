@@ -3,7 +3,7 @@ layout: page
 title: Program
 permalink: /program/
 nav: true
-nav_order: 5
+nav_order: 7
 ---
 
 ### Keynote Talks
