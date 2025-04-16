@@ -3,7 +3,7 @@ layout: page
 title: Venue
 permalink: /venue/
 nav: true
-nav_order: 7
+nav_order: 5
 ---
 
 ## Queen Mary University of LondonQueen Mary University of London
