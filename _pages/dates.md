@@ -1,4 +1,11 @@
-### Important Dates
+---
+layout: page
+title: Important Dates
+permalink: /dates/
+nav: true
+nav_order: 3
+---
+
 
 Be mindful of the following dates:
 
