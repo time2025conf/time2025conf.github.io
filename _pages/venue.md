@@ -18,6 +18,14 @@ The closest tube stations are **Stepney Green** and **Mile End**. For travel pla
 
 The easiest and generally best value way to pay for all public transport in London (TFL) is using a contactless bank card or mobile device.
 
+
+## Related events in London in the period
+
+London will also host the [Very Large DataBase (VLDB'25)](https://vldb.org/2025/) conference the week after TIME'25, with topics related to ours, so you might consider attending both. 
+
+We intend to devote the last day of TIME'25, on Friday the 29th, to contributions in the area of temporal databases.
+
+
 ## Accommodation
 
 <p style="text-align: center"><img src="../assets/img/qm.jpg" width="45%"></p>
