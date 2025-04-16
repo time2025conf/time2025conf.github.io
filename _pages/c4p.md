@@ -31,7 +31,9 @@ The list above is by no means exhaustive, as the aim is to foster the debate aro
 
 ### Submission guidelines
 
-TIME 2025 accepts submissions in PDF format, formatted following the [LIPIcs instructions](https://submission.dagstuhl.de/series/details/LIPIcs#author) and preferably using LaTeX. More information about the submission site and procedure will be provided in due time. TIME policy is single blind, so the names of the authors need not be hidden in the submitted draft. Members of the program committee are allowed to submit papers. Submitted papers will be refereed for quality, correctness, originality, and relevance to the symposium. At least one author of each accepted paper must register at the symposium and present the paper.
+TIME 2025 accepts submissions in PDF format, formatted following the [LIPIcs instructions](https://submission.dagstuhl.de/series/details/LIPIcs#author) and preferably using LaTeX (please note that you will need to change the copyright information with \Copyright{CC BY-NC-SA 4.0}). TIME policy is single blind, so the names of the authors need not be hidden in the submitted draft. Members of the program committee are allowed to submit papers. Submitted papers will be refereed for quality, correctness, originality, and relevance to the symposium. At least one author of each accepted paper must register at the symposium and present the paper.
+
+We will use the OpenReview platform throughout the submission and selection process. The webpage for submitting with all required information can be found [here](https://openreview.net/group?id=time-symposium.org/TIME/2025/Symposium)
 
 There are **three types** of submissions, and the authors are invited to specify under which one their paper lies:
 
@@ -41,5 +43,4 @@ There are **three types** of submissions, and the authors are invited to specify
 
 3) Extended abstract (4 pages, excluding references and appendix): such abstracts are intended to foster debates during the symposium and include: work-in-progress, project kick-off or review, PhD summary, and summary of a paper accepted in a major conference or journal. They will be specifically mentioned in the proceedings as abstracts and not full papers.
 
-The submission link: TBA
 
