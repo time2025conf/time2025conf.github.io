@@ -3,7 +3,7 @@ layout: page
 title: Proceedings
 permalink: /proceedings/
 nav: true
-nav_order: 4
+nav_order: 8
 ---
 
 Accepted papers will be presented at the symposium and included in the proceedings. Following the precious years, the proceedings of
