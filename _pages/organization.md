@@ -54,6 +54,6 @@ nav_order: 4
 - Raymond Hu, Queen Mary University of London, UK
 - Niki Omidvari, Queen Mary University of London, UK
 - Marc Roth, Queen Mary University of London, UK
-- Antonio di Stasio, City, University of London, University of London, UK
+- Antonio Di Stasio, City, University of London, University of London, UK
 - David Tena Cucala, RHUL, University of London, UK
 - Yongxin Yang, Queen Mary University of London, UK
