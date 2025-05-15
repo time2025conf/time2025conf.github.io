@@ -10,9 +10,9 @@ nav_order: 5
 
 <p style="text-align: center"><img src="../assets/img/qb.jpg" width="45%"></p>
 
-TIME 2025 will take place in the [Mile End campus](https://www.qmul.ac.uk/about/howtofindus/mileend/index.html) of Queen Mary University of London.
+TIME 2025 will take place in the [Mile End campus](https://www.qmul.ac.uk/about/howtofindus/mileend/index.html) of Queen Mary University of London. The precise rooms will be confirmed in due time.
 
-All the talks will take place in **Peston Lecture Theatre** at the New Graduate Centre - building n.18 in this [campus map](https://assets.qmul.ac.uk/docs/about/26065.pdf).
+<!--- All the talks will take place in **Peston Lecture Theatre** at the New Graduate Centre - building n.18 in this [campus map](https://assets.qmul.ac.uk/docs/about/26065.pdf). --->
 
 The closest tube stations are **Stepney Green** and **Mile End**. For travel planning to the venue we recommend using the "directions" option in this [google map](https://maps.app.goo.gl/UdAfrhAvDUUkefqS6). You can use the postal code E1 4DQ to locate the campus. 
 
