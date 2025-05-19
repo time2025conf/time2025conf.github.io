@@ -31,7 +31,7 @@ The list above is by no means exhaustive, as the aim is to foster the debate aro
 
 ### Submission guidelines
 
-TIME 2025 accepts submissions in PDF format, formatted following the [LIPIcs instructions](https://submission.dagstuhl.de/series/details/LIPIcs#author) and preferably using LaTeX (please note that you will need to change the copyright information with \Copyright{CC BY-NC-SA 4.0}). TIME policy is single blind, so the names of the authors need not be hidden in the submitted draft. Members of the program committee are allowed to submit papers. Submitted papers will be refereed for quality, correctness, originality, and relevance to the symposium. At least one author of each accepted paper must register at the symposium and present the paper.
+TIME 2025 accepts submissions in PDF format, formatted following the [LIPIcs instructions](https://submission.dagstuhl.de/series/details/LIPIcs#author) and preferably using LaTeX (please note that you will need to change the copyright information with \Copyright{CC-BY 4.0}). TIME policy is single blind, so the names of the authors need not be hidden in the submitted draft. Members of the program committee are allowed to submit papers. Submitted papers will be refereed for quality, correctness, originality, and relevance to the symposium. At least one author of each accepted paper must register at the symposium and present the paper.
 
 We will use the OpenReview platform throughout the submission and selection process. The webpage for submitting with all required information can be found [here](https://openreview.net/group?id=time-symposium.org/TIME/2025/Symposium)
 
