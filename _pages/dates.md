@@ -7,10 +7,10 @@ nav_order: 3
 ---
 
 
-Be mindful of the following dates:
+Please note that due to several requests we have decided to extend the paper submission deadline:
 
 - May 20, 2025: Abstract submission deadline
-- May 22, 2025: Paper submission deadline
+- <s>May 22</s> <b>May 26, 2025: Paper submission deadline</b>
 - June 25, 2025: Paper acceptance/rejection notification date
 - August 1st, 2025: Camera-ready submission deadline
 - August 18, 2025: Registration deadline
