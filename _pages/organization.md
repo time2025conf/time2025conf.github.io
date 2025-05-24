@@ -23,7 +23,6 @@ nav_order: 4
 - Jaewook	Byun,	Sejong University, Seoul
 - Maria	Chiara Meo,	G. d'Annunzio University of Chieti-Pescara
 - Carlo	Combi,	University of Verona
-- Jean-François,	Condotta	Artois University, Lens
 - Nicola	Gigante,	Free University of Bozen-Bolzano
 - Thomas	Guyet,	Inria-AIstroSight, Lyon
 - Peter	Jonsson,	Linköping University
