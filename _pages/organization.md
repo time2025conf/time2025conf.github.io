@@ -16,7 +16,6 @@ nav_order: 4
 - Sundararaman	Akshay,	Indian Institute of Technology Bombay
 - Beatrice	Amico,	University of Verona
 - Alexander	Artikis,	NCSR Demokritos & University of Piraeus
-- Philippe	Balbiani,	IRIT, Toulouse
 - Massimo	Benerecetti, Università di Napoli "Federico II"
 - Béatrice	Bérard,	Sorbonne University, Paris
 - Florian	Bruse, TU Munich
