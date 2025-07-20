@@ -6,6 +6,90 @@ nav: true
 nav_order: 7
 ---
 
+## PROGRAM (subject to change)
+
+---
+
+## Wednesday 27 August 2025
+
+**10:00**  Start of registration
+
+**10:15 – 10:30**  Opening: Welcome and Agenda
+
+**10:30 – 12:30**  Session 1: Time, Graphs, and Queries
+- Luca Geatti, Stefano Pessotto, Stefano Tonetta, *Safety and Liveness on Finite Words* 
+- Curtis Dyreson, *Temporal GraphQL: A Tree Grammar Approach*
+- Arthur Jansen, Bart Kuijpers, *On the complexity of the realisability problem for visit events in trajectory sample databases* 
+- Mateiu Rares-Ioan, Riccardo Dondi, Alexandru Popa, *Heuristics for covering timeline in temporal graphs* 
+
+**12:30 – 14:00**  Lunch break
+
+**14:00 – 15:00**  Invited Talk
+- Michael  Zakharyaschev, *Separation and interpolation problems related to linear temporal logic LTL*
+
+**15:00 – 15:30**  Coffee break
+
+**15:30 – 16:30**  Session 2: Temporal Automata 
+- Giuseppe De Giacomo, Antonio Di Stasio, Gianmarco Parretti, *PDDL to DFA: A Symbolic Transformation for Effective Reasoning*
+- Florian Bruse,  *Higher-Order Timed Automata and Tail Recursion* 
+
+**16:30 – 17:00**  Coffee break
+
+**17:00 – 18:30**  Session 3: Temporal Modelling Across Domains
+- Ajay D. Kshemkalyani, Anshuman Misra,  *Causal Message Ordering under Optimal Fault Tolerance* 
+- Xiaojin Li, Yan Huang, Rashmie Abeysinghe, Zenan Sun, Hongyu Chen, Pengze Li, Xing He, Shiqiang Tao, Cui Tao, Jiang Bian, Licong Cui, Guo-Qiang Zhang,    *Temporal ensemble logic for integrative representation of the entirety of clinical trials* 
+- Alexander Williams, Gregor Meehan, Stefan Lattner, Johan Pauwels, Mathieu Barthet, *Temporal Considerations in DJ Mix Information Retrieval and Generation* 
+
+**18:30**  Welcome Reception
+
+---
+
+## Thursday 28 August 2025
+
+**09:30 – 10:30**  Invited Tutorial
+- Nicola Gigante, *An introduction to first-order linear temporal logic*
+
+**10:30 – 11:00**  Coffee break
+
+**11:00 – 12:50**  Session 4: Temporal Logics and Uncertainty
+- Livia Blasi, Luigi Bellomarini, Emanuel Sallinger, Markus Nissl, *The Temporal Vadalog System* 
+- Eric Alsmann, Martin Lange,   *Metric Linear-Time Temporal Logic with Strict First-Time Semantics* 
+- Luke Hunsberger, Roberto Posenato,    *A Better Algorithm for Converting an STNU into Minimal Dispatchable Form* 
+- Lyris Xu, Luke Dickens, Fabio Aurelio D'Asaro,    *A Translation of Probabilistic Event Calculus into Markov Decision Processes* (short talk)
+  
+**12:50 – 14:00** Lunch break
+
+**14:00 – 15:10**  Session 5: Spatio-temporal Reasoning
+- Arthur Jansen, Bart Kuijpers, *Solutions to the generalised alibi query in moving object databases*  
+- Arthur Jansen, Bart Kuijpers,   *Visit probability in space-time prisms for moving object data* (short talk)
+- Nassim Belmecheri, *QualiNet: Acquiring Bird's Eye View Qualitative Spatial Representation from 2D Images in Automated Vehicle Perception* (short talk)
+
+**Evening**  Conference Dinner
+
+---
+
+## Friday 29 August 2025
+
+**10:00 – 11:00**  Invited Talk
+- Michael Wooldridge, *From Synthesis to Rational Verification*
+
+**11:00 – 11:30**  Coffee break
+
+**11:30 – 12:20**  Session 6: Temporal Learning 
+- Mark Chevallier, Filip Smola, Richard Schmoetten, Jacques D. Fleuriot,   *GradSTL: Comprehensive Signal Temporal Logic for Neurosymbolic Reasoning and Learning* 
+- Mauro Milella, Giovanni Pagliarini, Guido Sciavicco, Ionel Eduard Stan,  *Temporal Association Rules from Motifs* (short talk)
+
+**12:20 – 14:00**  Lunch break
+
+**14:00 – 14:50**  Session 7: LLMs for Temporal Reasoning
+- Pietro Bellodi, Pietro Casavecchia, Alberto Paparella, Guido Sciavicco, Ionel Eduard Stan, *Assessing The (In)Ability of LLMs To Reason in Interval Temporal Logic* 
+- Andreas Kouvaras, Periklis Mantenoglou, Alexander Artikis, *Large Language Models for the Run-Time Event Calculus* (short talk)
+
+**14:50-15:00** Closing Remarks
+
+---
+
+
 ### Keynote Talks
 
 - "From Synthesis to Rational Verification" by [Michael Wooldridge](https://www.cs.ox.ac.uk/people/michael.wooldridge/), University of Oxford, UK
@@ -20,7 +104,7 @@ Michael Wooldridge is a Professor of Computer Science at the University of Oxfor
 
 Michael Zakharyaschev is a Professor of Computer Science in the School of Computer Science and Information Systems at Birkbeck College, University of London. His current research interests include mathematical and computational aspects of knowledge representation and reasoning using modal, temporal, description, spatial, metric, intuitionistic, etc., logics as well as those logics per se.
 
-### Invited Tutorials
+### Invited Tutorial
 
 - "An introduction to first-order linear temporal logic" by [Nicola Gigante](https://www.inf.unibz.it/~gigante/), Free University of Bozen-Bolzano, Italy
 
@@ -30,6 +114,4 @@ Michael Zakharyaschev is a Professor of Computer Science in the School of Comput
 
 Nicola is a Researcher at the Free University of Bozen-Bolzano, Italy. He works on temporal reasoning in the broadest sense, including satisfiability of temporal logics with tableau- and SAT-based techniques, reactive synthesis, and temporal planning. He is currently investigating the use of (fragments of) first-order temporal logics to the specification of infinite-state systems.
 
-### Schedule
 
-- TBA
