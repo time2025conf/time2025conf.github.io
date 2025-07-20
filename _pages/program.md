@@ -8,7 +8,7 @@ nav_order: 7
 
 ### Keynote Talks
 
-- [Michael Wooldridge](https://www.cs.ox.ac.uk/people/michael.wooldridge/), University of Oxford, UK
+- "From Synthesis to Rational Verification" by [Michael Wooldridge](https://www.cs.ox.ac.uk/people/michael.wooldridge/), University of Oxford, UK
 
 <p style="text-align: center"><img src="../assets/img/MW.jpeg" width="30%"></p>
 
