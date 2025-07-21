@@ -48,3 +48,8 @@ Other accommodation options reachable on foot (or by public transport) include:
 - [The Whitechapel Hotel](https://thewhitechapelhotel.com/) (££)
 - [Holiday Inn Commercial Road](https://holidayinn.reservationscenter.com/hotel/holiday-inn-london-whitechapel-an-ihg-hotel-5-cavell-street-london?modal&gad_source=1&gclid=CjwKCAjwp8--BhBREiwAj7og14LC7fLi7-2nk7kW2BJTy9bA60hOTe0X0MoHWMX6BXQxH1ngMqb5RRoCRzoQAvD_BwE) (££)
 - [Town Hall Hotel](https://www.townhallhotel.com/home) (£££)
+
+## Visa
+
+The UK has implemented an Electronic Travel Authorisation (ETA) system. You will likely need to apply for one before travelling. For full details and application instructions, please visit [this webpage](https://www.gov.uk/eta).
+
