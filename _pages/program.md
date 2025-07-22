@@ -37,13 +37,11 @@ nav_order: 7
 - Giuseppe De Giacomo, Antonio Di Stasio, Gianmarco Parretti, *PDDL to DFA: A Symbolic Transformation for Effective Reasoning*
 - Florian Bruse,  *Higher-Order Timed Automata and Tail Recursion* 
 
-**16:30 – 17:00**  Coffee break
-
-**17:00 – 18:00**  Session 4: Temporal Modelling Across Domains
+**16:30 – 17:30**  Session 4: Temporal Modelling Across Domains
 - Xiaojin Li, Yan Huang, Rashmie Abeysinghe, Zenan Sun, Hongyu Chen, Pengze Li, Xing He, Shiqiang Tao, Cui Tao, Jiang Bian, Licong Cui, Guo-Qiang Zhang,    *Temporal ensemble logic for integrative representation of the entirety of clinical trials* 
 - Alexander Williams, Gregor Meehan, Stefan Lattner, Johan Pauwels, Mathieu Barthet, *Temporal Considerations in DJ Mix Information Retrieval and Generation* 
 
-**18:15**  Welcome Reception
+**17:45**  Welcome Reception
 
 ---
 
