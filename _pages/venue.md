@@ -23,8 +23,6 @@ The easiest and generally best value way to pay for all public transport in Lond
 
 London will also host the [Very Large DataBase (VLDB'25)](https://vldb.org/2025/) conference the week after TIME'25, with topics related to ours, so you might consider attending both. 
 
-We intend to devote the last day of TIME'25, on Friday the 29th, to contributions in the area of temporal databases.
-
 
 ## Accommodation
 
