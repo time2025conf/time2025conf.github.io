@@ -10,11 +10,11 @@ nav_order: 5
 
 <p style="text-align: center"><img src="../assets/img/qb.jpg" width="45%"></p>
 
-TIME 2025 will take place in the [Mile End campus](https://www.qmul.ac.uk/about/howtofindus/mileend/index.html) of Queen Mary University of London. The precise rooms will be confirmed in due time.
+TIME 2025 will take place in the [Mile End campus](https://www.qmul.ac.uk/about/howtofindus/mileend/index.html) of Queen Mary University of London. 
 
-<!--- All the talks will take place in **Peston Lecture Theatre** at the New Graduate Centre - building n.18 in this [campus map](https://assets.qmul.ac.uk/docs/about/26065.pdf). --->
+All the talks will take place in **Maths Lecture Theatre** in Maths Building - building n.4 in this [campus map](https://assets.qmul.ac.uk/docs/about/26065.pdf).
 
-The closest tube stations are **Stepney Green** and **Mile End**. For travel planning to the venue we recommend using the "directions" option in this [google map](https://maps.app.goo.gl/UdAfrhAvDUUkefqS6). You can use the postal code E1 4DQ to locate the campus. 
+The closest tube stations are **Stepney Green** and **Mile End**. For travel planning to the venue we recommend using the "directions" option in this [google map](https://maps.app.goo.gl/rYwe5ehWyZqwF1xa6). You can use the postal code GXF4+2P to locate the building. 
 
 The easiest and generally best value way to pay for all public transport in London (TFL) is using a contactless bank card or mobile device.
 
