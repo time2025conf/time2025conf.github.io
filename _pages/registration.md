@@ -7,7 +7,7 @@ nav_order: 6
 ---
 
 
-<p style="text-align: center"><img src="../assets/img/reg2.jpg" width="40%"></p>
+<p style="text-align: center"><img src="../assets/img/reg2.png" width="40%"></p>
 
 Please register before **August 15** using the following link:
 
