@@ -6,6 +6,9 @@ nav: true
 nav_order: 6
 ---
 
+
+<p style="text-align: center"><img src="../assets/img/reg2.jpg" width="40%"></p>
+
 Please register before **August 15** using the following link:
 
 [Registration link](https://eshop.qmul.ac.uk/conferences-and-events/conferences-events/conferences-events/32nd-international-symposium-on-temporal-representation-and-reasoning)
