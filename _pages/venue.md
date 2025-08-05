@@ -34,7 +34,7 @@ conference will take place.
 
 - Each flat is suitable for a maximum of 2 adult guests, with one double bed and an en-suite bathroom. 
 - The fee will be **£86 per night** (not £82.50), as QMUL is raising the prices from August.
-- Bookings must be **confirmed before 8th Aug.**
+- Bookings must be **confirmed before 13th Aug.**
 
 To arrange a booking please fill the relevant parts of the [PDF form](https://www.qmul.ac.uk/residences/media/accommodation-services/college/documents/Academic-Lets-Booking-Policy-&-Form-2024.pdf) and send an email to [Raymond Hu](mailto:r.hu@qmul.ac.uk). For further queries regarding specifically the QMUL accommodation, please contact [Raymond Hu](mailto:r.hu@qmul.ac.uk).
 
