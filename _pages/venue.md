@@ -12,7 +12,7 @@ nav_order: 5
 
 TIME 2025 will take place in the [Mile End campus](https://www.qmul.ac.uk/about/howtofindus/mileend/index.html) of Queen Mary University of London. 
 
-All the talks will take place in **Maths Lecture Theatre** in Maths Building - building n.4 in this [campus map](https://assets.qmul.ac.uk/docs/about/26065.pdf).
+All the talks will take place in **Maths Lecture Theatre** (MB-G01) in Maths Building - building n.4 in this [campus map](https://assets.qmul.ac.uk/docs/about/26065.pdf).
 
 The closest tube stations are **Stepney Green** and **Mile End**. For travel planning to the venue we recommend using the "directions" option in this [google map](https://maps.app.goo.gl/rYwe5ehWyZqwF1xa6). You can use the postal code GXF4+2P to locate the building. 
 
