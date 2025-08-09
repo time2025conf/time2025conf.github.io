@@ -88,8 +88,18 @@ nav_order: 7
 
 **14:50-15:00** Closing Remarks
 
----
+&nbsp;  
+&nbsp;  
 
+
+
+**19:30** Evening Option (arrange individually)
+- [BBC Proms concert in Royal Albert Hall: M. Sutherland, Tchaikovsky, Dvořák](https://www.royalalberthall.com/tickets/proms/bbc-proms-2025/khatia-buniatishvili-plays-tchaikovsky)
+- an iconic London music experience, available only during the BBC Proms festival!
+- £8.00 "Promming" tickets (usually standing) are available online from 9.30am on the day.
+
+---
+---
 
 ### Keynote Talks
 
