@@ -6,6 +6,27 @@ nav: true
 nav_order: 5
 ---
 
+## Social Events
+
+### Reception
+
+<p style="text-align: center"><img src="../assets/img/tavern.jpeg" width="25%"></p>
+
+We invite all participants to join us in [St Stephens Tavern](https://www.ststephenstavern.co.uk/) right in the heart of London - tables are booked for 7:30pm. The registration fee will cover one drink and one main (up to 30£) for each participant. The easiest way to reach St Stephens Tavern from the conference venue is by taking the District Line from Stepney Green Station to Westminster Station; the tavern is just outside the station and in front of the Big Ben.
+
+### Tour to Greenwich Observatory
+
+<p style="text-align: center"><img src="../assets/img/GW.webp" width="25%"></p>
+
+For our social event, we invite all participants to the [Royal Museum at the Greenwich Observatory](https://www.rmg.co.uk/). We will have a guided tour with a focus on the story of [John Harrison's Clocks](https://www.rmg.co.uk/stories/time/harrisons-clocks-longitude-problem), which starts at 5:30 pm - we meet at 5:20 at the admissions desk at the main entrance of the GW Royal Observatory. We recommend not taking a bus to GW Observatory due to traffic during rush hour. Instead we recommend walking to Limehouse station and then taking the DLR (Metro) Line to Greenwich. See also https://www.rmg.co.uk/plan-your-visit/getting-here for  further ways (including a boat!) to get to GW Observatory. The admission to GW Observatory and the tour tickets are covered by the registration fee.
+
+### Conference Dinner
+
+<p style="text-align: center"><img src="../assets/img/bills.webp" width="25%"></p>
+
+The conference dinner starts at 7:30 at [Bill's Greenwich Restaurant](https://bills-website.co.uk/restaurants/greenwich/) located just outside the Observatory Park.
+The dinnet is covered by the registration fee.
+
 ## Queen Mary University of LondonQueen Mary University of London
 
 <p style="text-align: center"><img src="../assets/img/qb.jpg" width="45%"></p>
