@@ -33,7 +33,7 @@ The dinnet is covered by the registration fee.
 
 As a suggestion for your Friday evening in London, we recommend attending the [BBC Proms concert in Royal Albert Hall: M. Sutherland, Tchaikovsky, Dvořák](https://www.royalalberthall.com/tickets/proms/bbc-proms-2025/khatia-buniatishvili-plays-tchaikovsky). The Proms is an iconic London music festival held every summer. £8 “Promming” tickets (usually standing) are available online from 9:30 am on the day of the concert.
 
-## Queen Mary University of LondonQueen Mary University of London
+## Queen Mary University of London
 
 <p style="text-align: center"><img src="../assets/img/qb.jpg" width="45%"></p>
 
