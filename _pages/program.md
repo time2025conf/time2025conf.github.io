@@ -41,7 +41,11 @@ nav_order: 7
 - Xiaojin Li, Yan Huang, Rashmie Abeysinghe, Zenan Sun, Hongyu Chen, Pengze Li, Xing He, Shiqiang Tao, Cui Tao, Jiang Bian, Licong Cui, Guo-Qiang Zhang,    *Temporal ensemble logic for integrative representation of the entirety of clinical trials* 
 - Alexander Williams, Gregor Meehan, Stefan Lattner, Johan Pauwels, Mathieu Barthet, *Temporal Considerations in DJ Mix Information Retrieval and Generation* 
 
-**17:45**  Welcome Reception
+&nbsp;  
+&nbsp;  
+
+**19:30**  Welcome Reception
+- St Stephens Tavern, [location on Google Maps](https://maps.app.goo.gl/V2daTzmB9v92byMs6)
 
 ---
 
@@ -65,7 +69,14 @@ nav_order: 7
 - Arthur Jansen, Bart Kuijpers,   *Visit probability in space-time prisms for moving object data* (short talk)
 - Nassim Belmecheri, *QualiNet: Acquiring Bird's Eye View Qualitative Spatial Representation from 2D Images in Automated Vehicle Perception* (short talk)
 
-**Evening**  Conference Dinner
+&nbsp;  
+&nbsp;  
+
+**17:20** Guided Tour
+-  Royal Museum at the Greenwich Observatory, [location on Google Maps](https://maps.app.goo.gl/8c9egMXVfqBqwHpW6)
+
+**19:30** Conference Dinner
+- Bill's Greenwich Restaurant, [location on Google Maps](https://maps.app.goo.gl/qnqzBkzcbh2ey6QL6)
 
 ---
 
@@ -91,10 +102,8 @@ nav_order: 7
 &nbsp;  
 &nbsp;  
 
-
-
 **19:30** Evening Option (arrange individually)
-- [BBC Proms concert in Royal Albert Hall: M. Sutherland, Tchaikovsky, Dvořák](https://www.royalalberthall.com/tickets/proms/bbc-proms-2025/khatia-buniatishvili-plays-tchaikovsky)
+- [BBC Proms concert in Royal Albert Hall: M. Sutherland, Tchaikovsky, Dvořák](https://www.royalalberthall.com/tickets/proms/bbc-proms-2025/khatia-buniatishvili-plays-tchaikovsky), [location on Google Maps](https://maps.app.goo.gl/EiJwxoJ2iJbw6xcm6)
 - an iconic London music experience, available only during the BBC Proms festival!
 - £8.00 "Promming" tickets (usually standing) are available online from 9.30am on the day.
 
