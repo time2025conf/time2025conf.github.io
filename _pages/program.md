@@ -87,7 +87,7 @@ nav_order: 7
 
 **11:00 – 11:30**  Coffee break
 
-**11:30 – 12:20**  Session 7: Temporal Learning 
+**11:30 – 12:20**  Session 7: Temporal Learning (Chair: Angelo Montanari)
 - Mark Chevallier, Filip Smola, Richard Schmoetten, Jacques D. Fleuriot,   *GradSTL: Comprehensive Signal Temporal Logic for Neurosymbolic Reasoning and Learning* 
 - Mauro Milella, Giovanni Pagliarini, Guido Sciavicco, Ionel Eduard Stan,  *Temporal Association Rules from Motifs* (short talk)
 
